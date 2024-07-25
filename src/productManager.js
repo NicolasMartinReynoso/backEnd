@@ -92,5 +92,3 @@ export default class ProductManager {
         }
     }
 }
-
-
